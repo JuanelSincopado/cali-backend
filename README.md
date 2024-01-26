@@ -1,8 +1,10 @@
-# Nombre del proyecto
+# Name
 
 Backend de prueba
 
-## Inicar proyecto
+## How run
+
+create a file .env following .env.example
 
 ```
 npm install
